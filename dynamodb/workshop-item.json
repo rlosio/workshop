@@ -1,0 +1,2 @@
+{"userid": {"S": "renato-$RANDOM"}, "date": {"N": "$RANDOM"}}
+{"userid": {"S": 'renato-6304"}, "date": {"N": "21054"}}
